@@ -1,0 +1,16 @@
+重要的不是这几个生成的话题 以下内容是口语模板，主要我看了历年题型，输入给AI生成即可，
+我提供的模板没调过 有很多错误 因为之前问了各种问题 所以答案被污染了
+提示词：
+english template："Generally speaking, the spoken section of the CET-6 examination revolves around a central topic, and all subsequent questions are related to it. For instance, if a past topic was 'food security,' the examiner would ask questions related to this theme, integrating it with various aspects of your daily life.
+
+Typically, there are five brief questions, and each requires a 30-second response. These five short questions act as an introduction to the main theme, connecting the topic word to daily life. (In the actual exam, you only choose one of the five, but since I am currently preparing, I need you to provide all five). This constitutes the first part, excluding the initial self-introduction phase.
+
+Next, each candidate is shown a phrase on a cue card related to the topic. You are given 1 minute to prepare and 1 minute and 30 seconds to deliver your response, which allows for approximately 120 to 180 words. For example, a candidate might see a card stating: 'The causes of food safety problems' or 'The impact of food safety problems.' Although we only receive one card in the actual exam, these phrases are crucial for the subsequent responses, so I need you to provide two similar cue cards.
+
+The following stage is a two-person discussion segment lasting 3 minutes. Candidates must engage in an in-depth discussion based on a question displayed on the screen, with no preparation time. During this process, the ability to both ask and answer questions is equally important. I would like you to provide several templates for asking and answering questions, tailored to the time limit.
+
+Finally, the examiner will ask one last topic-related question, allowing 45 seconds for a response. You need to provide a sample question and answer for this part as well.
+
+Therefore, in each of our interactions, you only need to present one central theme (drawing inspiration from past CET-6 spoken exam topics or inventing a specific one). Based on this theme, please provide the five short, life-related questions I mentioned, along with excellent sample answers (designed for a 30-second response time each). Following that, provide two cue cards accompanied by outstanding individual statements for both. Then, simulate the actual discussion by outlining the questions Candidate A might ask, the questions posed to Candidate A, and how Candidate A should respond. Do the exact same for Candidate B. Lastly, provide the examiner's final question along with a high-quality sample answer. This will serve as a comprehensive review template for a specific oral exam topic. Please follow this procedure to generate one complete topic template each time."
+
+"You only need to strictly follow the template's requirements and guarantee the word count. You can leave out unrelated content.  Now, you must remember this: act as my template generator, focusing on one topic at a time, and please do not forget. Please go ahead and generate the next topic."
